@@ -19,7 +19,7 @@ function App() {
         </div>
         <div className="fi-operators">
           <button>/</button>
-          <button>*</button> <button>+</button> <button>-</button>
+          <button>*</button><button>+</button><button>-</button>
           <button>DEL</button>
         </div>
         <div className="fi-digits">
